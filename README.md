@@ -10,7 +10,7 @@ The analysis involves the application of Poisson regression and Poisson random f
 
 - **Title:** Evaluating County-Level Lung Cancer Incidence from Environmental Radiation Exposure, PM2.5, and Other Exposures with Regression and Machine Learning Models
 - **Description:** This paper investigates the relationship between radon exposure, PM2.5 pollution, and other environmental exposures with lung cancer incidence rates. The goal is to establish a connection between these exposures and the occurrence of lung cancer.
-- **Link to Paper:** [Insert Link to Paper Here]
+- **Link to Paper:** will be added
 
 ## Code Purpose and Features
 
