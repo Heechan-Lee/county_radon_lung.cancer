@@ -38,4 +38,3 @@ The code in this repository serves the following purposes:
    ```R
    install.packages("caret")
    install.packages("Metrics")
-6. Library named 'rfCountData' is needed and please refer https://github.com/fpechon/rfCountData/blob/master/README.md to install the package.
