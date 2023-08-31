@@ -28,13 +28,3 @@ The code in this repository serves the following purposes:
   - `rfCountData` (Available at https://github.com/fpechon/rfCountData/): For handling random forest models in count data scenarios.
   - `Metrics`: For evaluating the performance of the models.
 
-## Instructions for Using the Code
-
-1. Clone or download this repository to your local machine.
-2. Ensure you have R installed on your system.
-3. Download the `rfCountData` library from https://github.com/fpechon/rfCountData/.
-4. Open the R script file named `lung_cancer_analysis.R`.
-5. Install the required libraries if you haven't already:
-   ```R
-   install.packages("caret")
-   install.packages("Metrics")
