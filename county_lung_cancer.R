@@ -2,8 +2,8 @@ library(caret)
 library(rfCountData)
 library(Metrics)
 
-data <- read.csv('C:\\Users\\hlee936\\OneDrive - Georgia Institute of Technology\\project\\python\\data_final\\data_poisson_final_male.csv')
-fip <- read.csv('C:\\Users\\hlee936\\OneDrive - Georgia Institute of Technology\\project\\python\\data_final\\fips.csv')
+data <- read.csv('data_poisson_final_male.csv')
+fip <- read.csv('fips.csv')
 
 # Function to split the data based on FIPS
 split_data <- function(data, fip_sample) {
