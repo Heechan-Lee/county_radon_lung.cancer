@@ -5,6 +5,14 @@ library(Metrics)
 data <- read.csv('C:\\Users\\hlee936\\OneDrive - Georgia Institute of Technology\\project\\python\\data_final\\data_poisson_final_male.csv')
 fip <- read.csv('C:\\Users\\hlee936\\OneDrive - Georgia Institute of Technology\\project\\python\\data_final\\fips.csv')
 
+# Function to split the data based on FIPS
+split_data <- function(data, fip_sample) {
+    df_list <- lapply(fip_sample, function(fip_group) {
+        subset(data, fips %in% fip_group)
+    })
+    return(df_list)
+}
+
 # Function to train the models and evaluate with rr
 evaluate_models_rr <- function(train_data, test_data) {
   x_train <- train_data[, c(4, 8, 14)]
