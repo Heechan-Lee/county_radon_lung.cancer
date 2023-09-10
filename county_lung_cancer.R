@@ -16,6 +16,11 @@ split_data <- function(data, fip_sample) {
     return(df_list)
 }
 
+# Followings are the functions for evaluating perfermance of random forests and Poisson regression models.
+# Each number of columns corresponds to followings
+# 4 age group 5 incidence count 6 population 7 pm2.5 8 RadNet 9 ozone 10 High school 11 Median family income 
+# 12 unemployed 13 urban 14 radon 15 butadiene 16 acetaldehyde 17 formaldehyde 18 benzene 20 smoking 21 drinking
+
 # This function trains random forests and Poisson regression models using 'rr' (radon and radnet) as predictors
 # and evaluates their performance using root mean square error (RMSE) and mean absolute percentage error (MAPE).
 evaluate_models_rr <- function(train_data, test_data) {
