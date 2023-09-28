@@ -28,3 +28,7 @@ The code in this repository serves the following purposes:
   - `rfCountData` (Available at https://github.com/fpechon/rfCountData/): For handling random forest models in count data scenarios.
   - `Metrics`: For evaluating the performance of the models.
 
+## Data Sources
+- Data sources can be found in the linked paper.
+  -RadNet - epa radnet
+  -Radon
