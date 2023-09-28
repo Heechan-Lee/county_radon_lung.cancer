@@ -4,8 +4,8 @@ library(rfCountData)
 library(Metrics)
 
 # Read in the data
-data <- read.csv('C:\\Users\\hlee936\\OneDrive - Georgia Institute of Technology\\project\\python\\data_final\\data_poisson_final_female.csv')
-fip <- read.csv('C:\\Users\\hlee936\\OneDrive - Georgia Institute of Technology\\project\\python\\data_final\\fips.csv')
+data <- read.csv('data_poisson_final_female.csv')
+fip <- read.csv('fips.csv')
 
 # This function splits the main data based on given FIPS county codes.
 # Essentially, for each group of FIPS in 'fip_sample', it subsets the data.
