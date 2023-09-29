@@ -34,7 +34,7 @@ The code in this repository serves the following purposes:
    - [RadNet](https://www.epa.gov/radnet/)
 
 - **Radon (Radon Zone) - US Environmental Protection Agency (1993)**
-   - [EPA’s map of radon zones national summary](insert_link_here)
+   - [EPA’s map of radon zones national summary](https://www.epa.gov/radon/epa-map-radon-zones-and-supplemental-information)
 - **Radon (median concentration) - National Environmental Public Health Tracking Network**
    - [Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/)
 
