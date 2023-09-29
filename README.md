@@ -47,5 +47,5 @@ The code in this repository serves the following purposes:
 - **Sociodemographic - National Cancer Institute, DCCPS, Surveillance Research Program (2022)**
    - [SEER*Stat Database: Incidence - SEER Research Data, 8 Registries, Nov 2021 Sub (1975-2019) - Linked To County Attributes - Time Dependent (1990-2019) Income/Rurality, 1969-2020 Counties](https://www.seer.cancer.gov)
 
-- **Health Outcome - National Cancer Institute, DCCPS, Surveillance Research Program (2022)**
+- **Health Outcome (Lung cancer incidence) - National Cancer Institute, DCCPS, Surveillance Research Program (2022)**
    - [SEER*Stat Database: Incidence - SEER Research Data, 8 Registries, Nov 2021 Sub (1975-2019) - Linked To County Attributes - Time Dependent (1990-2019) Income/Rurality, 1969-2020 Counties](https://www.seer.cancer.gov)
