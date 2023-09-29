@@ -29,6 +29,23 @@ The code in this repository serves the following purposes:
   - `Metrics`: For evaluating the performance of the models.
 
 ## Data Sources
-- Data sources can be found in the linked paper.
-  -RadNet - epa radnet
-  -Radon
+
+- **RadNet - U.S. Environmental Protection Agency**
+   - [RadNet](https://www.epa.gov/radnet/)
+
+- **Radon (Radon Zone) - US Environmental Protection Agency (1993)**
+   - [EPA’s map of radon zones national summary](insert_link_here)
+- **Radon (median concentration) - National Environmental Public Health Tracking Network**
+   - [Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/)
+
+- **Air quality (PM 2.5, Ozone, Chemicals)**
+   - [Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/)
+
+- **Smoking - University of Wisconsin Population Health Institute (2022)**
+   - [County Health Rankings & Roadmaps](https://www.countyhealthrankings.org)
+
+- **Sociodemographic - National Cancer Institute, DCCPS, Surveillance Research Program (2022)**
+   - [SEER*Stat Database: Incidence - SEER Research Data, 8 Registries, Nov 2021 Sub (1975-2019) - Linked To County Attributes - Time Dependent (1990-2019) Income/Rurality, 1969-2020 Counties](https://www.seer.cancer.gov)
+
+- **Health Outcome - National Cancer Institute, DCCPS, Surveillance Research Program (2022)**
+   - [SEER*Stat Database: Incidence - SEER Research Data, 8 Registries, Nov 2021 Sub (1975-2019) - Linked To County Attributes - Time Dependent (1990-2019) Income/Rurality, 1969-2020 Counties](https://www.seer.cancer.gov)
