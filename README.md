@@ -38,7 +38,7 @@ The code in this repository serves the following purposes:
 - **Radon (median concentration) - National Environmental Public Health Tracking Network**
    - [Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/)
 
-- **Air quality (PM 2.5, Ozone, Chemicals)**
+- **Air quality (PM 2.5, Ozone, Chemicals) - National Environmental Public Health Tracking Network**
    - [Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/)
 
 - **Smoking - University of Wisconsin Population Health Institute (2022)**
