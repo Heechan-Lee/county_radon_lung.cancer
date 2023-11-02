@@ -66,26 +66,5 @@ The code in this repository serves the following purposes:
     - 75-79 years old
     - 80-84 years old
 
-     These age groups were used to analyze lung and bronchus cancer incidences. If you have any questions or need further details, please refer to the code or feel free to contact us.
+     These age groups were used to analyze lung and bronchus cancer incidences.
 
-## Health Outcome (Lung cancer incidence) - National Cancer Institute, DCCPS, Surveillance Research Program (2022)
-
-- [SEER*Stat Database: Incidence - SEER Research Data, 8 Registries, Nov 2021 Sub (1975-2019) - Linked To County Attributes - Time Dependent (1990-2019) Income/Rurality, 1969-2020 Counties](https://www.seer.cancer.gov)
-
-### Age Groups
-
-In this study, we divided the population into the following age groups, each spanning five years:
-
-- 30-34 years old
-- 35-39 years old
-- 40-44 years old
-- 45-49 years old
-- 50-54 years old
-- 55-59 years old
-- 60-64 years old
-- 65-69 years old
-- 70-74 years old
-- 75-79 years old
-- 80-84 years old
-
-These age groups were used to analyze lung an
