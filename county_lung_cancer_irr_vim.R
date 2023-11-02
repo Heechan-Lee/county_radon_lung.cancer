@@ -18,9 +18,9 @@ split_data <- function(data, fip_sample) {
 
 
 # Each number of columns corresponds to followings
-# 4 age group 5 incidence count 6 population 7 pm2.5 8 RadNet 9 ozone 10 High school 11 Median family income 
+# 4 age group (divided into five-year intervals, e.g., 30-34 years old)
+# 5 incidence count 6 population 7 pm2.5 8 RadNet 9 ozone 10 High school 11 Median family income 
 # 12 unemployed 13 urban 14 radon 15 butadiene 16 acetaldehyde 17 formaldehyde 18 benzene 20 smoking 21 drinking
-
 
 #Models to check VIF
 poi_r <- glm(Count ~ smoking_10+cdc_radon_median+RadNet+ozone+pm2.5+cdc_aq_tox_formaldehyde_2011+cdc_aq_tox_benzene_2011+High_school_education+Median_family_income+Unemployed +Urban+Age_recode_with_1_year_olds,data=data, family = "poisson", offset=log(Pop))
