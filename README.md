@@ -52,7 +52,7 @@ The code in this repository serves the following purposes:
  
    - Age Groups
 
-In this study, we divided the population into the following age groups, each spanning five years:
+     In this study, we divided the population into the following age groups, each spanning five years:
 
     - 30-34 years old
     - 35-39 years old
@@ -66,5 +66,5 @@ In this study, we divided the population into the following age groups, each spa
     - 75-79 years old
     - 80-84 years old
 
-These age groups were used to analyze lung and bronchus cancer incidences. If you have any questions or need further details, please refer to the code or feel free to contact us.
+     These age groups were used to analyze lung and bronchus cancer incidences. If you have any questions or need further details, please refer to the code or feel free to contact us.
 
