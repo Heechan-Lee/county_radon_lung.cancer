@@ -54,17 +54,17 @@ The code in this repository serves the following purposes:
 
      In this study, we divided the population into the following age groups, each spanning five years:
 
-    - 30-34 years old
-    - 35-39 years old
-    - 40-44 years old
-    - 45-49 years old
-    - 50-54 years old
-    - 55-59 years old
-    - 60-64 years old
-    - 65-69 years old
-    - 70-74 years old
-    - 75-79 years old
-    - 80-84 years old
+      - 30-34 years old
+      - 35-39 years old
+      - 40-44 years old
+      - 45-49 years old
+      - 50-54 years old
+      - 55-59 years old
+      - 60-64 years old
+      - 65-69 years old
+      - 70-74 years old
+      - 75-79 years old
+      - 80-84 years old
 
      These age groups were used to analyze lung and bronchus cancer incidences.
 
